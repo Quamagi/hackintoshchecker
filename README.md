@@ -1,6 +1,4 @@
-¡Me alegra que te haya gustado cómo quedó! Vamos a actualizar el archivo `README.md` en tu proyecto de GitHub para reflejar todos los cambios recientes y agregar los créditos correctamente.
-
-### Aquí te dejo una versión actualizada del archivo `README.md`:
+![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/hackintoshchecker/main/ilustracion.png)
 
 ```markdown
 # HackintoshChecker
